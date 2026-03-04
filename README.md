@@ -32,7 +32,7 @@ The web platform handled orchard registration, user management, and report gener
 - Remote database integration
 - Git
 
-## Note on Source Code
+## Note
 
 The full source code cannot be published due to contractual confidentiality agreements.  
 A recommendation letter is available upon request.
